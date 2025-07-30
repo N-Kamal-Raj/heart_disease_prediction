@@ -71,18 +71,6 @@ For each algorithm, we evaluated:
 
 ---
 
-## 📈 Accuracy Comparison
-
-![Model Comparison](./path_to_your_accuracy_plot.png)
-
----
-
-## 🔬 Feature Ranking (SelectKBest)
-
-![Feature Ranking](./path_to_feature_ranking_plot.png)
-
----
-
 ## 🚀 Deployment
 
 - The final **Random Forest** model was deployed using **Gradio**.
