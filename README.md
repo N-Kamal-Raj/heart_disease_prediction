@@ -70,6 +70,17 @@ For each algorithm, we evaluated:
 📌 **Random Forest** yielded the best balance between precision, recall, and accuracy.
 
 ---
+## 📊 Comparative Analysis of Algorithm Accuracy
+
+### ✅ Training Accuracy
+
+![Training Accuracy](Training_accuracy.png)
+
+### ✅ Testing Accuracy
+
+![Testing Accuracy](Testing_accuracy.png)
+
+---
 
 ## 🚀 Deployment
 
